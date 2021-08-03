@@ -10,6 +10,10 @@ what I know and love to hate. [ref.](https://medium.com/singlestone/a-git-workfl
 ___
 ## Intended Features
 here is a list of the features that we will inevitably fail to fully implement, in order of priority
+- The bot should work
+  - It should connect to the server :red_circle:
+  - It should post messages to the bot channel :red_circle:
+  - It should be hosted somewhere :red_circle:
 - The bot will create a post that will use reactions from users to identify
   those who inted to play in a round of custom commander, and those who are done building :red_circle:
   - when everyone that has indicated they are participating in a round has indicated they are
